@@ -1,0 +1,82 @@
+
+body {
+  margin-top: 60px;
+}
+
+p {
+  color:#7EB4FA;
+  font-size:30px;
+  font: Georgia, serif;
+  font-style: italic;
+  font-weight: 100;
+}
+.border {
+    border-color: #7EB4FA;
+    border-width: 30px;
+    border-style: groove;
+    border-radius: 20%;
+
+  }
+.text1 {
+  color:#7EB4FA;
+  font-size:30px;
+  font-weight: bold;
+}
+.pealkiri {
+  color:#7EB4FA;
+  font-size:100px;
+
+}
+.tekstike {
+  color:#7EB4FA;
+  font-size:30px;
+  font-style: italic;
+  font-weight: 100;
+  font-display: fallback;
+
+}
+
+.lingike {
+  color:#7EB4FA;
+  font-size:30px;
+  font-style: italic;
+  font-weight: bold;
+  font-display: fallback;
+
+}
+html {
+height: 200%;
+}
+
+body {
+background-image: linear-gradient(#FFFF, rgb(0, 51, 159 ));
+}
+.container {
+  justify-content: center;
+  display: flex;
+}
+
+.tekstike1 {
+  color:#7EB4FA;
+  font-size:150px;
+  font-weight: bold;
+
+}
+
+.tekstike2 {
+color:#7EB4FA;
+font-size:30px;
+font-style: italic;
+font-weight: 100;
+font-display: fallback;
+
+}
+
+.tekst2 {
+  color:#7EB4FA;
+  font-size:30px;
+  font-style: italic;
+  font-weight: 100;
+  font-display: fallback;
+
+}
